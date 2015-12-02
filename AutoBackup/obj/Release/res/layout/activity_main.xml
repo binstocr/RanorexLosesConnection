@@ -1,0 +1,1 @@
+<fragment android:id="@+id/fragment" android:name="md53de1a53906ee803c3d9fbc818a61fdf8.MainActivityFragment" tools:layout="@layout/fragment_main" android:layout_width="match_parent" android:layout_height="match_parent" xmlns:tools="http://schemas.android.com/tools" xmlns:android="http://schemas.android.com/apk/res/android" />

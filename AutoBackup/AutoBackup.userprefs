@@ -1,0 +1,41 @@
+﻿<Properties StartupItem="AutoBackup.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" PreferredExecutionTarget="Android.08a9a03c00f43c70" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Resources/values/template-styles.xml">
+    <Files>
+      <File FileName="MainActivity.cs" Line="14" Column="34" />
+      <File FileName="Properties/AndroidManifest.xml" Line="5" Column="12" />
+      <File FileName="Resources/xml/backup.xml" Line="1" Column="1" />
+      <File FileName="AddFileActivity.cs" Line="31" Column="37" />
+      <File FileName="MainActivityFragment.cs" Line="1" Column="1" />
+      <File FileName="Resources/Resource.designer.cs" Line="1" Column="1" />
+      <File FileName="Resources/xml/preferences.xml" Line="1" Column="1" />
+      <File FileName="../../../../../Library/Frameworks/Xamarin.Android.framework/Versions/5.1.9-0/lib/xbuild/Xamarin/Android/Xamarin.Android.Common.targets" Line="1" Column="1" />
+      <File FileName="BaseActivity.cs" Line="12" Column="40" />
+      <File FileName="packages.config" Line="2" Column="11" />
+      <File FileName="Utils.cs" Line="1" Column="1" />
+      <File FileName="Resources/values/template-styles.xml" Line="22" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AutoBackup" expanded="True">
+            <Node name="AutoBackup" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="Resources" expanded="True">
+                <Node name="values" expanded="True">
+                  <Node name="template-styles.xml" selected="True" />
+                </Node>
+                <Node name="xml" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AutoBackup AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>

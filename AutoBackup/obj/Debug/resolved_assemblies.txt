@@ -1,0 +1,9 @@
+/Users/binstocr/monodroid-samples/android-m/AutoBackup/obj/Debug/assemblies/AutoBackup.dll
+/Users/binstocr/monodroid-samples/android-m/AutoBackup/obj/Debug/assemblies/System.dll
+/Users/binstocr/monodroid-samples/android-m/AutoBackup/obj/Debug/assemblies/System.Xml.dll
+/Users/binstocr/monodroid-samples/android-m/AutoBackup/obj/Debug/assemblies/Mono.Android.dll
+/Users/binstocr/monodroid-samples/android-m/AutoBackup/obj/Debug/assemblies/Mono.Android.Export.dll
+/Users/binstocr/monodroid-samples/android-m/AutoBackup/obj/Debug/assemblies/Xamarin.Android.Support.v4.dll
+/Users/binstocr/monodroid-samples/android-m/AutoBackup/obj/Debug/assemblies/Xamarin.Android.Support.v7.AppCompat.dll
+/Users/binstocr/monodroid-samples/android-m/AutoBackup/obj/Debug/assemblies/System.Core.dll
+/Users/binstocr/monodroid-samples/android-m/AutoBackup/obj/Debug/assemblies/mscorlib.dll
